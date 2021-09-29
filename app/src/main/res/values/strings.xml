@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PizzaPartyTestApp</string>
+    <string name="total_pizzas"> Total pizzas: $d</string>
+</resources>
